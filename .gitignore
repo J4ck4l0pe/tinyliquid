@@ -3,3 +3,4 @@ examples
 lib-cov
 coverage.html
 *.log
+.idea
